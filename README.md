@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de ADS<br>Trabalhando como QA, Analista de Testes<br>Futura desenvolvedora de Software</p>
+<p align="left">Graduada em Analise e desenvovimento de sistemas<br>Pós graduando em **FullStack Java Developer**<br>Trabalhando como QA, Analista de Testes
 
 ###
 
